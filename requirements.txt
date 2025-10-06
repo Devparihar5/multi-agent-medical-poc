@@ -1,0 +1,10 @@
+streamlit
+langgraph
+langchain
+langchain-google-genai
+reportlab
+pandas
+python-dotenv
+markdown
+weasyprint
+duckduckgo-search
